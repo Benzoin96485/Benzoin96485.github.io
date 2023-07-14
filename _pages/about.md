@@ -20,7 +20,7 @@ I have just graduated from [CCME, PKU](https://www.chem.pku.edu.cn/). I am going
 
 I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei. 
 
-As a research intern at [DP Technology](https://www.dp.tech/), I am focusing on the cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis is about accurate relative binding free energy calculation and and p*K*<sub>a</sub> prediction for drug-like molecules with complex acid-base equilibrium.
+As a research intern at [DP Technology](https://www.dp.tech/), I am focusing on the cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis is about accurate FEP calculation and p*K*<sub>a</sub> prediction for drug-like molecules with complex acid-base equilibrium.
 
 If you like the template of this homepage, you can refer to Yi Ren's Github Repository [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
 
