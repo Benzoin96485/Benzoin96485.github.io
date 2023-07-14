@@ -48,7 +48,7 @@ Loading...
 
 # 📖 Educations
 
-- *2023.09 - ???*, Ph. D. student, Department of Chemistry, Massachusette Institute of Technology.
+- *2023.09 - ???*, Ph. D. student, Department of Chemistry, Massachusetts Institute of Technology.
 - *2019.09 - 2023.07*, Peking University.
   - B. Sc. in Chemistry, College of Chemistry and Molecular Engineering.
   - B. Sc. (double degree) in Intelligence Science and Technology, School of Electrical Engineering and Computer Science.
