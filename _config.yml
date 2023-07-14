@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weiliang Luo (罗伟梁)"
-description              : "B. Sc. in Chemistry, just graduated from College of Chemistry and Molecular Engineering, Peking University"
+description              : "A theoretical, computational, alchemical, neural and classical chemist"
 repository               : "Benzoin96485/Benzoin96485.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weiliang Luo"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Peking University"
   location         : "Dalian, China"
-  employer         :
+  employer         : "DP Technology"
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "luowl7@mit.edu"
