@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Weiliang Luo's Homepage"
-description              : "Weiliang Luo's Homepage"
+title                    : "Weiliang Luo (罗伟梁)"
+description              : "B. Sc. in Chemistry, just graduated from College of Chemistry and Molecular Engineering, Peking University"
 repository               : "Benzoin96485/Benzoin96485.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -27,7 +27,7 @@ author:
   location         : "Dalian, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "luowl7@mit.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0005-6150-2797"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
