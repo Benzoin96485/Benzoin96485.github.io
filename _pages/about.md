@@ -22,7 +22,7 @@ My research interest is molecular modeling/simulation, rational drug design, and
 
 I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
 
-As a research intern at [DP Technology](https://www.dp.tech/), I am focusing on cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics, and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis completed here is about accurate FEP calculation and p*K* <sub>a</sub> prediction for drug-like molecules with complex acid-base equilibrium.
+As a research intern at [DP Technology](https://www.dp.tech/), I focused on cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics, and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis completed here was about accurate FEP calculation and p*K* <sub>a</sub> prediction for drug-like molecules with complex acid-base equilibrium.
 
 I'm always wary of data-driven methods when it comes to real, risk-sensitive scenarios with limited quality and quantity of available data. Therefore, I'm on my way combining physics and statistics, understanding the relationship between data and models, and decoding the structure of the chemical space. Hope to find ones who are also excited about this vision.
 
@@ -56,8 +56,9 @@ Loading...
 
 # 🏫 Teaching and Service
 
-- *2021.03 - 2022.01*, Teaching Assistant for Instrumental Analysis (Honor Class) (01034390) and Comprehensive Analytical Chemistry (Honor Class) (01034610).
+- *2023.09 - 2023.12* (To be arranged), Massachusetts Institute of Technology, Teaching Assistant for *Principles of Chemical Science* (5.111).
+- *2021.03 - 2022.01*, Peking University, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610).
 
 # 💻 Internships
 
-- *2022.03 - Now*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/), Beijing, China.
+- *2022.03 - 2023.07*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/), Beijing, China.
