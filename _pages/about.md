@@ -34,7 +34,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
-Loading...
+- *2023.08*: 🎉🎉 Uni-pKa has been posted on ChemRxiv!! Datasets, tookits and Bohrium App released!
 
 # 📝 Publications
 
@@ -44,7 +44,7 @@ Loading...
 [Uni-pKa: An Accurate and Physically Consistent pKa
 Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemrxiv-2023-lw5k0)
 
-**Weiliang Luo**, **Gengmo Zhou**, Zhengdan Zhu, Guolin Ke, Zhewei Wei, Zhifeng Gao*, Hang Zheng*
+**Weiliang Luo**, **Gengmo Zhou**, Zhengdan Zhu, Guolin Ke, Zhewei Wei, Zhifeng Gao\*, Hang Zheng\*
 
 [**Tookits**](https://github.com/dptech-corp/Uni-pKa) | 
 [**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
@@ -71,9 +71,9 @@ Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemr
 
 # 🏫 Teaching and Service
 
-- *2023.09 - 2023.12* Teaching Assistant for *Thermodynamics I* (5.601) and *Thermodynamics II and Kinetics* (5.602), Massachusetts Institute of Technology.
+- *2023.09 - 2023.12*, Teaching Assistant for *Thermodynamics I* (5.601) and *Thermodynamics II and Kinetics* (5.602), Massachusetts Institute of Technology.
 - *2021.03 - 2022.01*, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610), Peking University.
 
 # 💻 Internships
 
-- *2022.03 - 2023.07*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/).
+- *2022.03 - 2023.08*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/).
