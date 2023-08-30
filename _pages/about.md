@@ -34,7 +34,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
-- *2023.08*: 🎉🎉 Uni-pKa has been posted on ChemRxiv!! Datasets, tookits and Bohrium App released!
+- *2023.08*: 🎉🎉 Uni-pKa has been posted on ChemRxiv!! Datasets, toolkits and Bohrium App released!
 
 # 📝 Publications
 
@@ -46,7 +46,7 @@ Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemr
 
 **Weiliang Luo**, **Gengmo Zhou**, Zhengdan Zhu, Guolin Ke, Zhewei Wei, Zhifeng Gao\*, Hang Zheng\*
 
-[**Tookits**](https://github.com/dptech-corp/Uni-pKa) | 
+[**Toolkits**](https://github.com/dptech-corp/Uni-pKa) | 
 [**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
 [**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://app.bohrium.dp.tech/uni-pka) 
 - Rigorous interpretation and modeling of pKa data with thermodynamic consistency.
