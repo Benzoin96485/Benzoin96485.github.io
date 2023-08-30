@@ -38,7 +38,22 @@ Loading...
 
 # 📝 Publications
 
-Loading...
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/predict.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uni-pKa: An Accurate and Physically Consistent pKa
+Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemrxiv-2023-lw5k0)
+
+**Weiliang Luo**, **Gengmo Zhou**, Zhengdan Zhu, Guolin Ke, Zhewei Wei, Zhifeng Gao*, Hang Zheng*
+
+[**Tookits**](https://github.com/dptech-corp/Uni-pKa) | 
+[**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
+[**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://app.bohrium.dp.tech/uni-pka) 
+- Rigorous interpretation and modeling of pKa data with thermodynamic consistency.
+- State-of-the-art performance among ML-based pKa prediction models.
+- Fast enumeration and ranking for the protonation states of molecules under various pH conditions.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 
@@ -48,7 +63,7 @@ Loading...
 
 # 📖 Educations
 
-- *2023.09 - ???*, Ph. D. student, Department of Chemistry, Massachusetts Institute of Technology.
+- *2023.09 - 2028.06 (Expectation)*, Ph. D. student, Department of Chemistry, Massachusetts Institute of Technology.
 - *2019.09 - 2023.07*, Peking University.
   - B. Sc. in Chemistry, College of Chemistry and Molecular Engineering.
   - B. Sc. (double degree) in Intelligence Science and Technology, School of Electrical Engineering and Computer Science.
@@ -56,9 +71,9 @@ Loading...
 
 # 🏫 Teaching and Service
 
-- *2023.09 - 2023.12* (To be arranged), Massachusetts Institute of Technology, Teaching Assistant for *Principles of Chemical Science* (5.111).
-- *2021.03 - 2022.01*, Peking University, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610).
+- *2023.09 - 2023.12* Teaching Assistant for *Thermodynamics I* (5.601) and *Thermodynamics II and Kinetics* (5.602), Massachusetts Institute of Technology.
+- *2021.03 - 2022.01*, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610), Peking University.
 
 # 💻 Internships
 
-- *2022.03 - 2023.07*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/), Beijing, China.
+- *2022.03 - 2023.07*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/).
