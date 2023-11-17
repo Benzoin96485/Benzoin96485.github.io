@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I'm Weiliang Luo (罗伟梁) from Dalian, Liaoning, China. I have been pursuing my Ph. D. degree at [MIT Chemistry](https://chemistry.mit.edu/) since 2023 Fall. I'm waiting for my group assignment.
+Nice to meet you! I'm Weiliang Luo (罗伟梁) from Dalian, Liaoning, China. I'm a Ph. D. student at [MIT Chemistry](https://chemistry.mit.edu/), advised by [Prof. Heather J. Kulik](http://hjkgrp.mit.edu/author/heather-j.-kulik/).
 
-My research interest is molecular modeling/simulation, rational drug design, and AI for chemistry. I believe that scientific computation and machine learning will replace serendipity with certainty in traditional, labor-intensive chemical discovery.
+My research interest is molecular modeling/simulation, rational molecular design, and AI for chemistry. I believe that scientific computation and machine learning will replace serendipity with certainty in traditional, labor-intensive chemical discovery.
 
 My undergraduate study is at [CCME, PKU](https://www.chem.pku.edu.cn/). I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
 
@@ -34,6 +34,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2023.11*: I joined [Kulik's research group](http://hjkgrp.mit.edu/)!
 - *2023.08*: 🎉🎉 Uni-pKa has been posted on ChemRxiv!! Datasets, toolkits and Bohrium App released!
 
 # 📝 Publications
@@ -64,6 +65,7 @@ Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemr
 # 📖 Educations
 
 - *2023.09 - 2028.06 (Expectation)*, Ph. D. student, Department of Chemistry, Massachusetts Institute of Technology.
+  - Advisor: Prof. Heather J. Kulik.
 - *2019.09 - 2023.07*, Peking University.
   - B. Sc. in Chemistry, College of Chemistry and Molecular Engineering.
   - B. Sc. (double degree) in Intelligence Science and Technology, School of Electrical Engineering and Computer Science.
