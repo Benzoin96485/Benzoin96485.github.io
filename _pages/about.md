@@ -72,7 +72,7 @@ Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemr
 - *2016.09 - 2019.06*, Dalian No.24 High School.
 
 # 🏫 Teaching and Service
-
+- *2023.02 - 2023.05*, Teaching Assistant for MITx, Massachusetts Institute of Technology.
 - *2023.09 - 2023.12*, Teaching Assistant for *Thermodynamics I* (5.601) and *Thermodynamics II and Kinetics* (5.602), Massachusetts Institute of Technology.
 - *2021.03 - 2022.01*, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610), Peking University.
 
