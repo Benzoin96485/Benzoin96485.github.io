@@ -49,7 +49,7 @@ Prediction through Protonation Ensemble Modeling](https://doi.org/10.26434/chemr
 
 [**Code**](https://github.com/dptech-corp/Uni-pKa) | 
 [**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
-[**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://app.bohrium.dp.tech/uni-pka) 
+[**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://bohrium.dp.tech/apps/uni-pka) 
 - Rigorous interpretation and modeling of pKa data with thermodynamic consistency.
 - State-of-the-art performance among ML-based pKa prediction models.
 - Fast enumeration and ranking for the protonation states of molecules under various pH conditions.
