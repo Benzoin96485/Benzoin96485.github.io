@@ -34,12 +34,12 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2024.07*: Uni-pKa has been accepted by *JACS Au*! Datasets, code and Bohrium App released!
 - *2023.11*: I joined [Kulik's research group](http://hjkgrp.mit.edu/)!
-- *2023.08*: 🎉🎉 Uni-pKa has been posted on ChemRxiv!! Datasets, code and Bohrium App released!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/Uni-pKa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted</div><img src='images/Uni-pKa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Uni-pKa: An Accurate and Physically Consistent pKa
