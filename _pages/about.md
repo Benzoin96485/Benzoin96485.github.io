@@ -34,7 +34,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
-- *2024.07*: Uni-pKa has been accepted by *JACS Au*! Datasets, code and Bohrium App released!
+- *2024.07*: Uni-pKa has been accepted by *JACS Au* and selected as the cover article!
 - *2023.11*: I joined [Kulik's research group](http://hjkgrp.mit.edu/)!
 
 # 📝 Publications
