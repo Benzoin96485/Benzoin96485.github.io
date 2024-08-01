@@ -18,7 +18,12 @@ redirect_from:
 
 Nice to meet you! I'm Weiliang Luo (罗伟梁) from Dalian, Liaoning, China. I'm a Ph. D. student at [MIT Chemistry](https://chemistry.mit.edu/), advised by [Prof. Heather J. Kulik](http://hjkgrp.mit.edu/author/heather-j.-kulik/).
 
-My research interest is molecular modeling/simulation, rational molecular design, and AI for chemistry. I'm working on the multiscale modeling of metalloenzyme catalysis across electronic and atomistic structures. 
+My research interest is molecular modeling/simulation, rational molecular design, and AI for chemistry. I'm working on the multiscale modeling of enzymatic catalysis across electronic and atomistic structures, including:
+
+- Next-generation machine learning potential for biochemical reactive systems.
+- Automatic cluster model and QM/MM simulation workflow.
+- Mechanism study of novel enzymatic reactions.
+- Application of density functional theory and correlated wave function methods on biochemistry.
 
 My undergraduate study is at [CCME, PKU](https://www.chem.pku.edu.cn/). I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
 
