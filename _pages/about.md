@@ -39,6 +39,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2024.08*: I received Department of Chemistry Award for Outstanding Teaching for my TAing in MITx!
 - *2024.07*: Uni-pKa has been accepted by *JACS Au* and selected as the cover article!
 - *2023.11*: I joined [Kulik's research group](http://hjkgrp.mit.edu/)!
 
@@ -63,8 +64,9 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🎖 Honors and Awards
 
+- *2024.8*, Department of Chemistry Award for Outstanding Teaching
 - *2023.6*, "Chemistry Star" Academic Award (Undergraduate) (Top 2%)
-- *2023.3*, Excellent Undergraduate Research
+- *2023.3*, Excellent Undergraduate Research Project at Peking University
 - *2022.12*, National Scholarship (Undergraduate) (Top 3%)
 
 # 📖 Educations
