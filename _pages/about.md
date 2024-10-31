@@ -45,7 +45,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS Au</div><img src='images/music102.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/music102.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Music102: An *D*<sub>12</sub>-equivariant transformer for chord progression accompaniment](https://arxiv.org/abs/2410.18151)
@@ -57,7 +57,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Uni-pKa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JACS Au</div><img src='images/Uni-pKa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [(Cover Article) Bridging Machine Learning and Thermodynamics for Accurate pKa Prediction](https://doi.org/10.1021/jacsau.4c00271)
