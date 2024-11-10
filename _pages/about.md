@@ -67,7 +67,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 [**Preprint at Chemrxiv**](https://doi.org/10.26434/chemrxiv-2023-lw5k0) | 
 [**Code**](https://github.com/dptech-corp/Uni-pKa) | 
 [**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
-[**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://bohrium.dp.tech/apps/uni-pka) 
+[**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://bohrium.dp.tech/apps/uni-pka) | 
 [**Notebook Demo**](https://bohrium.dp.tech/notebooks/38543442597)
 - Rigorous interpretation and modeling of pKa data with thermodynamic consistency.
 - State-of-the-art performance among ML-based pKa prediction models.
