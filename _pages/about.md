@@ -39,13 +39,15 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2025.04*: Music102 has been accepted by the 50th Anniversary of the International Computer Music Conference 2025, Special CCOM AI Paper track!
+- *2025.03*: A successful talk on ACS Spring 2025 about Uni-pKa.
 - *2024.08*: I received Department of Chemistry Award for Outstanding Teaching for my TAing in MITx!
 - *2024.07*: Uni-pKa has been accepted by *JACS Au* and selected as the cover article!
 - *2023.11*: I joined [Kulik's research group](http://hjkgrp.mit.edu/)!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/music102.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMC 2025</div><img src='images/music102.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Music102: An *D*<sub>12</sub>-equivariant transformer for chord progression accompaniment](https://arxiv.org/abs/2410.18151)
@@ -68,7 +70,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 [**Code**](https://github.com/dptech-corp/Uni-pKa) | 
 [**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
 [**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://bohrium.dp.tech/apps/uni-pka) | 
-[**Notebook Demo**](https://bohrium.dp.tech/notebooks/38543442597)
+[**Notebook Demo**](https://bohrium.dp.tech/notebooks/38543442597) 
 - Rigorous interpretation and modeling of pKa data with thermodynamic consistency.
 - State-of-the-art performance among ML-based pKa prediction models.
 - Fast enumeration and ranking for the protonation states of molecules under various pH conditions.
@@ -92,7 +94,8 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 - *2016.09 - 2019.06*, Dalian No.24 High School.
 
 # 🏫 Teaching and Service
-- *2023.02 - 2023.05*, Teaching Assistant for MITx, Massachusetts Institute of Technology.
+- *2025.02 - Now*, MIT UROP supervisor of Michelle Luo, MIT SB AI and Chemistry, expected ’28, on atomistic property prediction for transition metal complex using 3D Graph Neural Network
+- *2024.02 - 2024.05*, Teaching Assistant for MITx, Massachusetts Institute of Technology.
 - *2023.09 - 2023.12*, Teaching Assistant for *Thermodynamics I* (5.601) and *Thermodynamics II and Kinetics* (5.602), Massachusetts Institute of Technology.
 - *2021.03 - 2022.01*, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610), Peking University.
 
