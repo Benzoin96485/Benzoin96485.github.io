@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Nice to meet you! I'm Weiliang Luo (罗伟梁) from Dalian, Liaoning, China. I'm a Ph. D. student at [MIT Chemistry](https://chemistry.mit.edu/), advised by [Prof. Heather J. Kulik](http://hjkgrp.mit.edu/author/heather-j.-kulik/).
+Nice to meet you! I'm Weiliang Luo (罗伟梁) from Dalian, Liaoning, China. I'm a Ph. D. candidate at [MIT Chemistry](https://chemistry.mit.edu/), advised by [Prof. Heather J. Kulik](http://hjkgrp.mit.edu/author/heather-j.-kulik/).
 
 My research interest is molecular modeling/simulation, rational molecular design, and AI for chemistry. I'm working on the multiscale modeling of enzymatic catalysis across electronic and atomistic structures, including:
 
@@ -39,6 +39,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2025.05*：I passed my PhD qualification exam and became a PhD candidate now!
 - *2025.04*: Music102 has been accepted by the 50th Anniversary of the International Computer Music Conference 2025, Special CCOM AI Paper track!
 - *2025.03*: A successful talk on ACS Spring 2025 about Uni-pKa.
 - *2024.08*: I received Department of Chemistry Award for Outstanding Teaching for my TAing in MITx!
