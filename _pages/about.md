@@ -39,12 +39,10 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2025.07*: I became a MolSSI's software fellow!
 - *2025.05*：I passed my PhD qualification exam and became a PhD candidate now!
 - *2025.04*: Music102 has been accepted by the 50th Anniversary of the International Computer Music Conference 2025, Special CCOM AI Paper track!
 - *2025.03*: A successful talk on ACS Spring 2025 about Uni-pKa.
-- *2024.08*: I received Department of Chemistry Award for Outstanding Teaching for my TAing in MITx!
-- *2024.07*: Uni-pKa has been accepted by *JACS Au* and selected as the cover article!
-- *2023.11*: I joined [Kulik's research group](http://hjkgrp.mit.edu/)!
 
 # 📝 Publications
 
@@ -80,9 +78,10 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🎖 Honors and Awards
 
-- *2024.8*, Department of Chemistry Award for Outstanding Teaching
-- *2023.6*, "Chemistry Star" Academic Award (Undergraduate) (Top 2%)
-- *2023.3*, Excellent Undergraduate Research Project at Peking University
+- *2025.07*, MolSSI's Software Fellow
+- *2024.08*, Department of Chemistry Award for Outstanding Teaching
+- *2023.06*, "Chemistry Star" Academic Award (Undergraduate) (Top 2%)
+- *2023.03*, Excellent Undergraduate Research Project at Peking University
 - *2022.12*, National Scholarship (Undergraduate) (Top 3%)
 
 # 📖 Educations
