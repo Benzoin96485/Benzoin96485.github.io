@@ -47,7 +47,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 📝 Publications
 
-[Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534)
+- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534)
 
 Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*
 
@@ -58,8 +58,8 @@ Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S.
 
 **Weiliang Luo**\*
 
-[**Code**](https://github.com/Benzoin96485/music102) 
-- A trial of combination between symmetry in music theory and deep learning.
+[**Code**](https://github.com/Benzoin96485/music102) | [**Conference Panel**](https://icmc2025.sites.northeastern.edu/papers/#paper2a)
+- A trial of a combination of symmetry in music theory and deep learning.
 </div>
 </div>
 
