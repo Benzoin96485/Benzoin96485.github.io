@@ -39,12 +39,17 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🔥 News
 
+- *2025.07*: My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
 - *2025.07*: I became a MolSSI's software fellow!
 - *2025.05*：I passed my PhD qualification exam and became a PhD candidate now!
 - *2025.04*: Music102 has been accepted by the 50th Anniversary of the International Computer Music Conference 2025, Special CCOM AI Paper track!
 - *2025.03*: A successful talk on ACS Spring 2025 about Uni-pKa.
 
 # 📝 Publications
+
+[Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534)
+
+Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMC 2025</div><img src='images/music102.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
