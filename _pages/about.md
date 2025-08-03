@@ -47,6 +47,18 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMC 2025</div><img src='images/CrysVCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Materials Discovery with Valence Constrained Design in Generative Modeling](https://arxiv.org/abs/2507.19799)
+
+**Mouyang Cheng**, **Weiliang Luo**, **Hao Tang**, Bowen Yu, Yongqiang Cheng, Weiwei Xie, Ju Li\*, Heather J. Kulik\*, Mingda Li\*
+
+[**Code**](https://github.com/vipandyc/CrysVCD)
+- Aiming to overcome valency imbalance in material generation.
+</div>
+</div>
+
 - [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534)
 
 Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*
