@@ -41,9 +41,9 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 - *2025.10*: I won a ChemPhysChem Poster Award at [SMLQC 2025](https://www.smlqc2025.com/p/practical-information-for-attendees.html).
 - *2025.10*: The ML for TMC design review paper I contributed in with my labmates was published on COChE!
-- *2025.07*: [My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
+- *2025.07*: My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
 - *2025.07*: I became a [MolSSI Software Fellow](https://molssi.org/fellowship/molssis-new-software-fellows/)!
-- *2025.05*：I passed my PhD qualification exam and became a PhD candidate!
+- *2025.05*: I passed my PhD qualification exam and became a PhD candidate!
 - *2025.04*: Music102 has been accepted by the [ICMC 2025](https://icmc2025.sites.northeastern.edu/papers/), Special CCOM AI Paper track!
 - *2025.03*: [A successful talk](https://doi.org/10.1021/scimeetings.5c11156) on ACS Spring 2025 about Uni-pKa.
 
