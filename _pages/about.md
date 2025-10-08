@@ -25,27 +25,35 @@ My research interest is molecular modeling/simulation, rational molecular design
 - Mechanism study of novel enzymatic reactions.
 - Application of density functional theory and correlated wave function methods on biochemistry.
 
-My undergraduate study is at [CCME, PKU](https://www.chem.pku.edu.cn/). I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
+My undergraduate studies were finished at [CCME, PKU](https://www.chem.pku.edu.cn/). I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
 
-When I was a research intern at [DP Technology](https://www.dp.tech/), I focused on cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics, and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis completed here was about accurate FEP calculation and p*K* <sub>a</sub> prediction for drug-like molecules with complex acid-base equilibrium.
+When I was a research intern at [DP Technology](https://www.dp.tech/), I focused on cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics, and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis project, supported by DP, developed a p*K* <sub>a</sub> prediction model for drug-like molecules with complex acid-base equilibrium, and accurate FEP calculation augmented by the thermodynamic correction from this p*K* <sub>a</sub> model and charge-changing alchemical transformation algorithm.
 
-I believe that scientific computation and machine learning will replace serendipity with certainty in traditional, labor-intensive chemical discovery. However, I'm always wary of data-driven methods when it comes to real, risk-sensitive scenarios with limited quality and quantity of available data. Therefore, I'm on my way combining physics and statistics, understanding the relationship between data and models, and decoding the structure of the chemical space. Hope to find ones who are also excited about this vision.
+I believe that scientific computation and machine learning will replace serendipity with certainty in traditional, labor-intensive chemical discovery. However, I'm always wary of data-driven methods when it comes to real, risk-sensitive scenarios with limited quality and quantity of available data. Therefore, I'm on my way to integrating physics and statistics, understanding the relationship between data and models, and decoding the structure of the chemical space. Hope to find ones who are also excited about this vision.
 
 Thank you for your visiting!
 
 ---
 
-If you like the template of this homepage, you can refer to Yi Ren's Github Repository [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
+If you like the template of this homepage, you can refer to Yi Ren's GitHub Repository [acad-homepage](https://github.com/RayeRen/acad-homepage.github.io).
 
 # 🔥 News
 
-- *2025.07*: My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
-- *2025.07*: I became a MolSSI's software fellow!
-- *2025.05*：I passed my PhD qualification exam and became a PhD candidate now!
-- *2025.04*: Music102 has been accepted by the 50th Anniversary of the International Computer Music Conference 2025, Special CCOM AI Paper track!
-- *2025.03*: A successful talk on ACS Spring 2025 about Uni-pKa.
+- *2025.10*: I won a ChemPhysChem Poster Award at [SMLQC 2025](https://www.smlqc2025.com/p/practical-information-for-attendees.html).
+- *2025.10*: The ML for TMC design review paper I contributed in with my labmates was published on COChE!
+- *2025.07*: [My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
+- *2025.07*: I became a [MolSSI Software Fellow](https://molssi.org/fellowship/molssis-new-software-fellows/)!
+- *2025.05*：I passed my PhD qualification exam and became a PhD candidate!
+- *2025.04*: Music102 has been accepted by the [ICMC 2025](https://icmc2025.sites.northeastern.edu/papers/), Special CCOM AI Paper track!
+- *2025.03*: [A successful talk](https://doi.org/10.1021/scimeetings.5c11156) on ACS Spring 2025 about Uni-pKa.
 
 # 📝 Publications
+
+<div class='paper-box'>
+<div class='paper-box-text' markdown="1">
+- [Exploring beyond Experiment: Generating High-Quality Datasets of Transition Metal Complexes with Quantum Chemistry and Machine Learning]([https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534](https://doi.org/10.1016/j.coche.2025.101189)), Jacob W. Toney, Aaron G. Garrison, _Weiliang Luo_, Roland G. St. Michel, Sukrit Mukhopadhyay, Heather J. Kulik, Curr. Opin. Chem. Eng. 2025, 50, 101189.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CrysVCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,12 +64,13 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 [**Code**](https://github.com/vipandyc/CrysVCD)
 - Aiming to overcome valency imbalance in material generation.
+
 </div>
 </div>
 
 <div class='paper-box'>
 <div class='paper-box-text' markdown="1">
-- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904
+- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904.
 </div>
 </div>
 
@@ -97,6 +106,7 @@ If you like the template of this homepage, you can refer to Yi Ren's Github Repo
 
 # 🎖 Honors and Awards
 
+- *2025.10*, ChemPhysChem Post Award at SMLQC 2025
 - *2025.07*, MolSSI's Software Fellow
 - *2024.08*, Department of Chemistry Award for Outstanding Teaching
 - *2023.06*, "Chemistry Star" Academic Award (Undergraduate) (Top 2%)
