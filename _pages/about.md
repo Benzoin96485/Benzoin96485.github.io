@@ -39,6 +39,7 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 # 🔥 News
 
+- *2026.01*: The manuscript of the QuantumPDB software package, of which I am a main developer, was preprinted at ChemRxiv!
 - *2025.10*: I won a ChemPhysChem Poster Award at [SMLQC 2025](https://www.smlqc2025.com/p/practical-information-for-attendees.html).
 - *2025.10*: The ML for TMC design review paper I contributed in with my labmates was published on COChE!
 - *2025.07*: My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
@@ -49,9 +50,18 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 # 📝 Publications
 
-<div class='paper-box'>
+## Main contributions
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/QuantumPDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-- [Exploring beyond Experiment: Generating High-Quality Datasets of Transition Metal Complexes with Quantum Chemistry and Machine Learning]([https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534](https://doi.org/10.1016/j.coche.2025.101189)), Jacob W. Toney, Aaron G. Garrison, _Weiliang Luo_, Roland G. St. Michel, Sukrit Mukhopadhyay, Heather J. Kulik, Curr. Opin. Chem. Eng. 2025, 50, 101189.
+
+[QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures](https://chemrxiv.org/engage/chemrxiv/article-details/69570f49083c11e4a14122ed)
+
+**David W. Kastner**, _Weiliang Luo_, Wilson Ho, Clorice R. Reinhardt, Allison Keys, and Heather J. Kulik\*
+
+[**Code**](https://github.com/davidkastner/quantumPDB)
+- Automatic quantum chemistry cluster construction for diverse enzyme systems.
+
 </div>
 </div>
 
@@ -65,12 +75,6 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 [**Code**](https://github.com/vipandyc/CrysVCD)
 - Aiming to overcome valency imbalance in material generation.
 
-</div>
-</div>
-
-<div class='paper-box'>
-<div class='paper-box-text' markdown="1">
-- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904.
 </div>
 </div>
 
@@ -104,6 +108,12 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 </div>
 </div>
 
+## Other collaborations
+
+- [Evaluating Large Language Models in Scientific Discovery](https://doi.org/10.48550/arXiv.2512.15567), Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu, Thomas M. Pruyn, Yue Huang, Kehan Guo, Xiuzhe Luo, Yuanhao Qu, Yi Qu, Yinkai Wang, Haorui Wang, Jeff Guo, Jingru Gan, Parshin Shojaee, Di Luo, Andres M. Bran, Gen Li, Qiyuan Zhao, Shao-Xiong Lennon Luo, Yuxuan Zhang, Xiang Zou, Wanru Zhao, Yifan F. Zhang, Wucheng Zhang, Shunan Zheng, Saiyang Zhang, Sartaaj Takrim Khan, Mahyar Rajabi-Kochi, Samantha Paradi-Maropakis, Tony Baltoiu, Fengyu Xie, Tianyang Chen, Kexin Huang, _Weiliang Luo_, Meijing Fang, Xin Yang, Lixue Cheng, Jiajun He, Soha Hassoun, Xiangliang Zhang, Wei Wang, Chandan K. Reddy, Chao Zhang, Zhiling Zheng, Mengdi Wang, Le Cong, Carla P. Gomes, Chang-Yu Hsieh, Aditya Nandy, Philippe Schwaller, Heather J. Kulik, Haojun Jia, Huan Sun, Seyed Mohamad Moosavi, Chenru Duan.  arXiv: 2512.15567.
+- [Exploring beyond Experiment: Generating High-Quality Datasets of Transition Metal Complexes with Quantum Chemistry and Machine Learning](https://doi.org/10.1016/j.coche.2025.101189), Jacob W. Toney, Aaron G. Garrison, _Weiliang Luo_, Roland G. St. Michel, Sukrit Mukhopadhyay, Heather J. Kulik, Curr. Opin. Chem. Eng. 2025, 50, 101189.
+- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904.
+
 # 🎖 Honors and Awards
 
 - *2025.10*, ChemPhysChem Post Award at SMLQC 2025
@@ -123,7 +133,7 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 - *2016.09 - 2019.06*, Dalian No.24 High School.
 
 # 🏫 Teaching and Service
-- *2025.02 - Now*, MIT UROP supervisor of Michelle Luo, MIT SB AI and Chemistry, expected ’28, on atomistic property prediction for transition metal complex using 3D Graph Neural Network
+- *2025.02 - 2025.05*, MIT UROP supervisor of Michelle Luo, MIT SB AI and Chemistry, expected ’28, on atomistic property prediction for transition metal complex using 3D Graph Neural Network
 - *2024.02 - 2024.05*, Teaching Assistant for MITx, Massachusetts Institute of Technology.
 - *2023.09 - 2023.12*, Teaching Assistant for *Thermodynamics I* (5.601) and *Thermodynamics II and Kinetics* (5.602), Massachusetts Institute of Technology.
 - *2021.03 - 2022.01*, Teaching Assistant for *Instrumental Analysis (Honor Class)* (01034390) and *Comprehensive Analytical Chemistry (Honor Class)* (01034610), Peking University.
