@@ -25,6 +25,8 @@ My research interest is molecular modeling/simulation, rational molecular design
 - Mechanism study of novel enzymatic reactions.
 - Application of density functional theory and correlated wave function methods on biochemistry.
 
+See my [MolSSI Fellow flyer](https://molssi.org/weiliang-luo-building-better-tools-for-molecular-discovery/)!
+
 My undergraduate studies were finished at [CCME, PKU](https://www.chem.pku.edu.cn/). I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
 
 When I was a research intern at [DP Technology](https://www.dp.tech/), I focused on cutting-edge algorithms for the free energy evaluation of small drug molecules. I contributed to the molecular dynamics (MD) simulation, chemoinformatics, and software engineering in the free energy perturbation (FEP) module of the next-generation drug design platform [Hermite](https://hermite.dp.tech/). My undergraduate thesis project, supported by DP, developed a p*K* <sub>a</sub> prediction model for drug-like molecules with complex acid-base equilibrium, and accurate FEP calculation augmented by the thermodynamic correction from this p*K* <sub>a</sub> model and charge-changing alchemical transformation algorithm.
@@ -39,23 +41,17 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 # 🔥 News
 
-- *2026.01*: The manuscript of the QuantumPDB software package, of which I am a main developer, was preprinted at ChemRxiv!
-- *2025.10*: I won a ChemPhysChem Poster Award at [SMLQC 2025](https://www.smlqc2025.com/p/practical-information-for-attendees.html).
-- *2025.10*: The ML for TMC design review paper I contributed in with my labmates was published on COChE!
-- *2025.07*: My collaborative paper with Martin Head-Gordon's lab on regularized 2nd-order perturbation theory was published!
-- *2025.07*: I became a [MolSSI Software Fellow](https://molssi.org/fellowship/molssis-new-software-fellows/)!
-- *2025.05*: I passed my PhD qualification exam and became a PhD candidate!
-- *2025.04*: Music102 has been accepted by the [ICMC 2025](https://icmc2025.sites.northeastern.edu/papers/), Special CCOM AI Paper track!
-- *2025.03*: [A successful talk](https://doi.org/10.1021/scimeetings.5c11156) on ACS Spring 2025 about Uni-pKa.
+- *2026.05*: QuantumPDB, of which I am a main developer, was published on JCIM!
+- *2026.04*: My collaboration with Weng Lab at NEU was published on Science Advances!
 
 # 📝 Publications
 
 ## Main contributions
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/QuantumPDB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JCIM</div><img src='images/QuantumPDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures](https://chemrxiv.org/engage/chemrxiv/article-details/69570f49083c11e4a14122ed)
+[QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures](https://pubs.acs.org/doi/10.1021/acs.jcim.5c03064)
 
 **David W. Kastner**, _Weiliang Luo_, Wilson Ho, Clorice R. Reinhardt, Allison Keys, and Heather J. Kulik\*
 
@@ -110,7 +106,9 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 ## Other collaborations
 
-- [Evaluating Large Language Models in Scientific Discovery](https://doi.org/10.48550/arXiv.2512.15567), Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu, Thomas M. Pruyn, Yue Huang, Kehan Guo, Xiuzhe Luo, Yuanhao Qu, Yi Qu, Yinkai Wang, Haorui Wang, Jeff Guo, Jingru Gan, Parshin Shojaee, Di Luo, Andres M. Bran, Gen Li, Qiyuan Zhao, Shao-Xiong Lennon Luo, Yuxuan Zhang, Xiang Zou, Wanru Zhao, Yifan F. Zhang, Wucheng Zhang, Shunan Zheng, Saiyang Zhang, Sartaaj Takrim Khan, Mahyar Rajabi-Kochi, Samantha Paradi-Maropakis, Tony Baltoiu, Fengyu Xie, Tianyang Chen, Kexin Huang, _Weiliang Luo_, Meijing Fang, Xin Yang, Lixue Cheng, Jiajun He, Soha Hassoun, Xiangliang Zhang, Wei Wang, Chandan K. Reddy, Chao Zhang, Zhiling Zheng, Mengdi Wang, Le Cong, Carla P. Gomes, Chang-Yu Hsieh, Aditya Nandy, Philippe Schwaller, Heather J. Kulik, Haojun Jia, Huan Sun, Seyed Mohamad Moosavi, Chenru Duan.  arXiv: 2512.15567.
+- [Mammalian-like steroidogenesis in plants gives rise to endocrine-mimetic cardenolides](https://www.science.org/doi/10.1126/sciadv.aeb5460), Menglong Xu; David W. Kastner; _Weiliang Luo_; Fu-Shuang Li; Peter Müller; Yulin Sun; Wentao Huang; Christopher M. Glinkerman; Morgan Guempel; Heather J. Kulik; Jing-Ke Weng. Science Advances 2026, 12 (16), eaeb5460. 
+- [Beyond the Training Domain: Robust Generative Transition State Models for Unseen Chemistry](https://doi.org/10.48550/arXiv.2601.16469.), Samir Darouich; Jacob W. Toney; Weiliang Luo; Johannes Kästner; Mathias Niepert; Heather J. Kulik. arXiv: 2601.16469. 
+- [Evaluating Large Language Models in Scientific Discovery](https://doi.org/10.48550/arXiv.2512.15567), Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu, Thomas M. Pruyn, Yue Huang, Kehan Guo, Xiuzhe Luo, Yuanhao Qu, Yi Qu, Yinkai Wang, Haorui Wang, Jeff Guo, Jingru Gan, Parshin Shojaee, Di Luo, Andres M. Bran, Gen Li, Qiyuan Zhao, Shao-Xiong Lennon Luo, Yuxuan Zhang, Xiang Zou, Wanru Zhao, Yifan F. Zhang, Wucheng Zhang, Shunan Zheng, Saiyang Zhang, Sartaaj Takrim Khan, Mahyar Rajabi-Kochi, Samantha Paradi-Maropakis, Tony Baltoiu, Fengyu Xie, Tianyang Chen, Kexin Huang, _Weiliang Luo_, Meijing Fang, Xin Yang, Lixue Cheng, Jiajun He, Soha Hassoun, Xiangliang Zhang, Wei Wang, Chandan K. Reddy, Chao Zhang, Zhiling Zheng, Mengdi Wang, Le Cong, Carla P. Gomes, Chang-Yu Hsieh, Aditya Nandy, Philippe Schwaller, Heather J. Kulik, Haojun Jia, Huan Sun, Seyed Mohamad Moosavi, Chenru Duan. arXiv: 2512.15567.
 - [Exploring beyond Experiment: Generating High-Quality Datasets of Transition Metal Complexes with Quantum Chemistry and Machine Learning](https://doi.org/10.1016/j.coche.2025.101189), Jacob W. Toney, Aaron G. Garrison, _Weiliang Luo_, Roland G. St. Michel, Sukrit Mukhopadhyay, Heather J. Kulik, Curr. Opin. Chem. Eng. 2025, 50, 101189.
 - [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904.
 
