@@ -7,25 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = '/google-scholar-stats/gs_data_shieldsio.json' | absolute_url %}
 
 <span class='anchor' id='about-me'></span>
 
 Nice to meet you! I'm Weiliang Luo (罗伟梁) from Dalian, Liaoning, China. I'm a Ph. D. candidate at [MIT Chemistry](https://chemistry.mit.edu/), advised by [Prof. Heather J. Kulik](http://hjkgrp.mit.edu/author/heather-j.-kulik/).
 
-My research interest is molecular modeling/simulation, rational molecular design, and AI for chemistry. I'm working on the multiscale modeling of enzymatic catalysis across electronic and atomistic structures, including:
+<a href="https://scholar.google.com/citations?user=kkqvEcYAAAAJ">Google Scholar citations: <strong><span id="total_cit">135</span></strong></a>
 
-- Next-generation machine learning potential for biochemical reactive systems.
-- Automatic cluster model and QM/MM simulation workflow.
-- Mechanism study of novel enzymatic reactions.
-- Application of density functional theory and correlated wave function methods on biochemistry.
+My research interest is molecular modeling/simulation, rational molecular design, and AI for chemistry. I'm working on the multiscale modeling across electronic and atomistic structures, including:
 
-See my [MolSSI Fellow flyer](https://molssi.org/weiliang-luo-building-better-tools-for-molecular-discovery/)!
+- Neural network potentials, enhanced sampling, and generative modeling for reactions in condensed phases.
+- Mechanistic studies, design and control of enzymatic and prebiotic reactions.
+- Agentic systems for GPU acceleration and method development in quantum chemistry.
 
 My undergraduate studies were finished at [CCME, PKU](https://www.chem.pku.edu.cn/). I conducted my undergraduate research on graph neural networks (GNN) for ADME/T property prediction at [Molecular Design Lab](http://mdl.ipc.pku.edu.cn/mdlweb/home.php), supervised by Prof. Luhua Lai and Dr. Jianfeng Pei.
 
@@ -41,8 +35,9 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 # 🔥 News
 
-- *2026.05*: QuantumPDB, of which I am a main developer, was published on JCIM!
-- *2026.04*: My collaboration with Weng Lab at NEU was published on Science Advances!
+- *2026.09*: The first paper with my Enerzyme open-source initiative was accepted by JCTC!
+- *2026.08*: My collaboration with Mingda Li's group and Ju Li's group on valency-constrained crystal generation was published on Nat. Comput. Sci.!
+
 
 # 📝 Publications
 
@@ -53,23 +48,26 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 [QuantumPDB: A Workflow for High-Throughput Quantum Cluster Model Generation from Protein Structures](https://pubs.acs.org/doi/10.1021/acs.jcim.5c03064)
 
-**David W. Kastner**, _Weiliang Luo_, Wilson Ho, Clorice R. Reinhardt, Allison Keys, and Heather J. Kulik\*
+David W. Kastner\*, **Weiliang Luo**, Wilson Ho, Clorice R. Reinhardt, Allison Keys, and Heather J. Kulik
 
-[**Code**](https://github.com/davidkastner/quantumPDB)
+[**Preprint at Chemrxiv**](https://chemrxiv.org/doi/10.26434/chemrxiv-2026-w5x1d) | [**Code**](https://github.com/hjkgrp/quantumPDB) <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:ULOm3_A8WrAC'>| Citations: 4</span></strong>
 - Automatic quantum chemistry cluster construction for diverse enzyme systems.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CrysVCD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Comput. Sci.</div><img src='images/CrysVCD.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Materials Discovery with Valence Constrained Design in Generative Modeling](https://arxiv.org/abs/2507.19799)
 
-**Mouyang Cheng**, **Weiliang Luo**, **Hao Tang**, Bowen Yu, Yongqiang Cheng, Weiwei Xie, Ju Li\*, Heather J. Kulik\*, Mingda Li\*
+Mouyang Cheng\*, **Weiliang Luo**\*, Hao Tang\*, Bowen Yu\*, Yongqiang Cheng, Weiwei Xie, Ju Li, Heather J. Kulik, Mingda Li\*
 
-[**Code**](https://github.com/vipandyc/CrysVCD)
-- Aiming to overcome valency imbalance in material generation.
+[**Preprint at arXiv**](https://arxiv.org/abs/2507.19799) | 
+[**Code**](https://github.com/vipandyc/CrysVCD) <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:MXK_kJrjxJIC'>| Citations: 6</span></strong>
+- A solution to the ubiquitous valency imbalance in generative modeling of materials.
+- Efficient stability screening with foundational MLIP.
+- High-performance thermal-conductive and optical materials discovery with conditional generation.
 
 </div>
 </div>
@@ -81,8 +79,8 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 **Weiliang Luo**\*
 
-[**Code**](https://github.com/Benzoin96485/music102) | [**Conference Panel**](https://icmc2025.sites.northeastern.edu/papers/#paper2a)
-- A trial of a combination of symmetry in music theory and deep learning.
+[**Code**](https://github.com/Benzoin96485/music102) | [**Conference Panel**](https://icmc2025.sites.northeastern.edu/papers/#paper2a) <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:0EnyYjriUFMC'>| Citations: 2</span></strong>
+- A trial of a combination of symmetry and group representations in music theory and deep learning.
 </div>
 </div>
 
@@ -97,7 +95,7 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 [**Code**](https://github.com/dptech-corp/Uni-pKa) | 
 [**Datasets**](https://www.aissquare.com/datasets/detail?pageType=datasets&name=Uni-pKa-Dataset) | 
 [**Application: Ligand Protonation with Uni-pKa Free Energy Ranking**](https://bohrium.dp.tech/apps/uni-pka) | 
-[**Notebook Demo**](https://bohrium.dp.tech/notebooks/38543442597) 
+[**Notebook Demo**](https://bohrium.dp.tech/notebooks/38543442597) <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:qjMakFHDy7sC'>| Citations: 59</span></strong> 
 - Rigorous interpretation and modeling of pKa data with thermodynamic consistency.
 - State-of-the-art performance among ML-based pKa prediction models.
 - Fast enumeration and ranking for the protonation states of molecules under various pH conditions.
@@ -106,16 +104,17 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 ## Other collaborations
 
-- [Mammalian-like steroidogenesis in plants gives rise to endocrine-mimetic cardenolides](https://www.science.org/doi/10.1126/sciadv.aeb5460), Menglong Xu; David W. Kastner; _Weiliang Luo_; Fu-Shuang Li; Peter Müller; Yulin Sun; Wentao Huang; Christopher M. Glinkerman; Morgan Guempel; Heather J. Kulik; Jing-Ke Weng. Science Advances 2026, 12 (16), eaeb5460. 
-- [Beyond the Training Domain: Robust Generative Transition State Models for Unseen Chemistry](https://doi.org/10.48550/arXiv.2601.16469.), Samir Darouich; Jacob W. Toney; Weiliang Luo; Johannes Kästner; Mathias Niepert; Heather J. Kulik. arXiv: 2601.16469. 
-- [Evaluating Large Language Models in Scientific Discovery](https://doi.org/10.48550/arXiv.2512.15567), Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu, Thomas M. Pruyn, Yue Huang, Kehan Guo, Xiuzhe Luo, Yuanhao Qu, Yi Qu, Yinkai Wang, Haorui Wang, Jeff Guo, Jingru Gan, Parshin Shojaee, Di Luo, Andres M. Bran, Gen Li, Qiyuan Zhao, Shao-Xiong Lennon Luo, Yuxuan Zhang, Xiang Zou, Wanru Zhao, Yifan F. Zhang, Wucheng Zhang, Shunan Zheng, Saiyang Zhang, Sartaaj Takrim Khan, Mahyar Rajabi-Kochi, Samantha Paradi-Maropakis, Tony Baltoiu, Fengyu Xie, Tianyang Chen, Kexin Huang, _Weiliang Luo_, Meijing Fang, Xin Yang, Lixue Cheng, Jiajun He, Soha Hassoun, Xiangliang Zhang, Wei Wang, Chandan K. Reddy, Chao Zhang, Zhiling Zheng, Mengdi Wang, Le Cong, Carla P. Gomes, Chang-Yu Hsieh, Aditya Nandy, Philippe Schwaller, Heather J. Kulik, Haojun Jia, Huan Sun, Seyed Mohamad Moosavi, Chenru Duan. arXiv: 2512.15567.
-- [Exploring beyond Experiment: Generating High-Quality Datasets of Transition Metal Complexes with Quantum Chemistry and Machine Learning](https://doi.org/10.1016/j.coche.2025.101189), Jacob W. Toney, Aaron G. Garrison, _Weiliang Luo_, Roland G. St. Michel, Sukrit Mukhopadhyay, Heather J. Kulik, Curr. Opin. Chem. Eng. 2025, 50, 101189.
-- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904.
+- [Mammalian-like steroidogenesis in plants gives rise to endocrine-mimetic cardenolides](https://www.science.org/doi/10.1126/sciadv.aeb5460), Menglong Xu; David W. Kastner; _Weiliang Luo_; Fu-Shuang Li; Peter Müller; Yulin Sun; Wentao Huang; Christopher M. Glinkerman; Morgan Guempel; Heather J. Kulik; Jing-Ke Weng. Science Advances 2026, 12 (16), eaeb5460. <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:_kc_bZDykSQC'>| Citations: 8</span></strong>
+- [Beyond the Training Domain: Robust Generative Transition State Models for Unseen Chemistry](https://doi.org/10.48550/arXiv.2601.16469.), Samir Darouich; Jacob W. Toney; Weiliang Luo; Johannes Kästner; Mathias Niepert; Heather J. Kulik. arXiv: 2601.16469. <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:M3ejUd6NZC8C'>| Citations: 10</span></strong>
+- [Evaluating Large Language Models in Scientific Discovery](https://doi.org/10.48550/arXiv.2512.15567), Zhangde Song, Jieyu Lu, Yuanqi Du, Botao Yu, Thomas M. Pruyn, Yue Huang, Kehan Guo, Xiuzhe Luo, Yuanhao Qu, Yi Qu, Yinkai Wang, Haorui Wang, Jeff Guo, Jingru Gan, Parshin Shojaee, Di Luo, Andres M. Bran, Gen Li, Qiyuan Zhao, Shao-Xiong Lennon Luo, Yuxuan Zhang, Xiang Zou, Wanru Zhao, Yifan F. Zhang, Wucheng Zhang, Shunan Zheng, Saiyang Zhang, Sartaaj Takrim Khan, Mahyar Rajabi-Kochi, Samantha Paradi-Maropakis, Tony Baltoiu, Fengyu Xie, Tianyang Chen, Kexin Huang, _Weiliang Luo_, Meijing Fang, Xin Yang, Lixue Cheng, Jiajun He, Soha Hassoun, Xiangliang Zhang, Wei Wang, Chandan K. Reddy, Chao Zhang, Zhiling Zheng, Mengdi Wang, Le Cong, Carla P. Gomes, Chang-Yu Hsieh, Aditya Nandy, Philippe Schwaller, Heather J. Kulik, Haojun Jia, Huan Sun, Seyed Mohamad Moosavi, Chenru Duan. arXiv: 2512.15567. <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:Zph67rFs4hoC'>| Citations: 27</span></strong>
+- [Exploring beyond Experiment: Generating High-Quality Datasets of Transition Metal Complexes with Quantum Chemistry and Machine Learning](https://doi.org/10.1016/j.coche.2025.101189), Jacob W. Toney, Aaron G. Garrison, _Weiliang Luo_, Roland G. St. Michel, Sukrit Mukhopadhyay, Heather J. Kulik, Curr. Opin. Chem. Eng. 2025, 50, 101189. <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:3fE2CSJIrl8C'>| Citations: 9</span></strong>
+- [Regularized Second-Order Møller-Plesset Theory: Linear Scaling Implementation and Assessment on Large-Molecule Problems](https://pubs.acs.org/doi/10.1021/acs.jctc.5c00534), Zhenling Wang, Tianyi Shi, _Weiliang Luo_, Heather J. Kulik, Yang Liu, Xiaoye S. Li, Martin Head-Gordon\*, J. Chem. Theory Comput. 2025, 21, 14, 6887–6904. <strong><span class='show_paper_citations' data='kkqvEcYAAAAJ:8k81kl-MbHgC'>| Citations: 10</span></strong>
 
 # 🎖 Honors and Awards
 
 - *2025.10*, ChemPhysChem Post Award at SMLQC 2025
-- *2025.07*, MolSSI's Software Fellow
+- *2025.07*, Sigma Xi
+- *2025.05*, [MolSSI's Software Fellow](https://molssi.org/weiliang-luo-building-better-tools-for-molecular-discovery/)
 - *2024.08*, Department of Chemistry Award for Outstanding Teaching
 - *2023.06*, "Chemistry Star" Academic Award (Undergraduate) (Top 2%)
 - *2023.03*, Excellent Undergraduate Research Project at Peking University
@@ -124,7 +123,6 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 # 📖 Educations
 
 - *2023.09 - 2028.06 (Expectation)*, Ph. D. student, Department of Chemistry, Massachusetts Institute of Technology.
-  - Advisor: Prof. Heather J. Kulik.
 - *2019.09 - 2023.07*, Peking University.
   - B. Sc. in Chemistry, College of Chemistry and Molecular Engineering.
   - B. Sc. (double degree) in Intelligence Science and Technology, School of Electrical Engineering and Computer Science.
@@ -138,4 +136,4 @@ If you like the template of this homepage, you can refer to Yi Ren's GitHub Repo
 
 # 💻 Internships
 
-- *2022.03 - 2023.08*, research intern in small-molecule algorithms, [DP Technology](https://www.dp.tech/).
+- *2022.03 - 2023.08*, research intern in small-molecule drug discovery algorithms, [DP Technology](https://www.dp.tech/).

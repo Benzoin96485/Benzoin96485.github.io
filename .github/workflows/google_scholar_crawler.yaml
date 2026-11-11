@@ -1,29 +1,64 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 8 * * *'
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  update:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y python3-setuptools python3-pip
+
+      - name: Fetch Google Scholar data
+        working-directory: google_scholar_crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          python3 -m pip install -r requirements.txt
+          python3 main.py
+
+      - name: Commit citation data
+        run: |
+          python3 - << 'PY'
+          import json
+          from pathlib import Path
+
+          def citations(path):
+              data = json.loads(Path(path).read_text())
+              pubs = data.get("publications") or {}
+              return {
+                  "citedby": data.get("citedby"),
+                  "publications": {
+                      key: pub.get("num_citations")
+                      for key, pub in pubs.items()
+                  },
+              }
+
+          new_path = Path("google_scholar_crawler/results/gs_data.json")
+          old_path = Path("google-scholar-stats/gs_data.json")
+          changed = not old_path.exists() or citations(old_path) != citations(new_path)
+          Path("/tmp/citation_changed").write_text("yes" if changed else "no")
+          PY
+          if [ "$(cat /tmp/citation_changed)" = "no" ]; then
+            echo "Citation counts are unchanged."
+            exit 0
+          fi
+          mkdir -p google-scholar-stats
+          cp google_scholar_crawler/results/gs_data.json google-scholar-stats/gs_data.json
+          cp google_scholar_crawler/results/gs_data_shieldsio.json google-scholar-stats/gs_data_shieldsio.json
+          git add google-scholar-stats/gs_data.json google-scholar-stats/gs_data_shieldsio.json
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m "Update Google Scholar citation data"
+          git push origin HEAD:main
